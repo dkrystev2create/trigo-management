@@ -55,7 +55,7 @@ if($_POST) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Stock Management System</title>
+	<title>Trigo</title>
 
 	<!-- bootstrap -->
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap.min.css">
@@ -63,6 +63,9 @@ if($_POST) {
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap-theme.min.css">
 	<!-- font awesome -->
 	<link rel="stylesheet" href="assests/font-awesome/css/font-awesome.min.css">
+
+	<!-- favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="custom/images/favicon.ico" />
 
 	<!-- custom css -->
 	<link rel="stylesheet" href="custom/css/custom.css">	
