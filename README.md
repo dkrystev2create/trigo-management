@@ -13,8 +13,11 @@
 ### 5. Отворете /php_action/db_connect.php и променете:
 
 $username = "MySQL username here...";
+
 $password = "MySQL password here...";
+
 $dbname = "MySQL database here...";
+
 
 ### 6. Влезте в Вашия браузер и напишете http://localhost/trigo
 
